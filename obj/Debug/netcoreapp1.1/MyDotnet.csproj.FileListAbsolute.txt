@@ -1,0 +1,8 @@
+/Users/girlpulse/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.deps.json
+/Users/girlpulse/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.json
+/Users/girlpulse/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.dev.json
+/Users/girlpulse/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/girlpulse/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.pdb
+/Users/girlpulse/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.AssemblyInfo.cs
+/Users/girlpulse/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/girlpulse/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.pdb
